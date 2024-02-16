@@ -3,7 +3,7 @@ on:
   workflow_dispatch:
       inputs:
         package_name:
-          description: "com.je.supersus"
+          description: "com.AkhirPekan.BioskopSimulator"
           required: true
 
 jobs:
